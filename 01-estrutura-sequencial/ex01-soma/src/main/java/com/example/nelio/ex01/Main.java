@@ -1,4 +1,4 @@
-package main.java.com.example.nelio.ex01;
+package java.com.example.nelio.ex01;
 
 import java.util.Locale;
 import java.util.Scanner;
