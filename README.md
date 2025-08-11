@@ -20,6 +20,21 @@ mvn -q exec:java
   ex04-salario/
   ex05-valor-a-pagar/
   ex06-areas/
+
+02-estrutura-condicional/
+  ex01-negativo/
+  ex02-par-ou-impar/
+  ex03-multiplos/
+  ex04-tempo-de-jogo/
+  ex05-lanche/
+  ex06-intervalo/
+  ex07-coordenadas/
+  ex08-imposto/
+
+03-estrutura-while/
+  ex01-senha/
+  ex02-quadrante/
+  ex03-combustivel/
 ```
 
 Cada pasta contém:
