@@ -28,6 +28,6 @@ Cada pasta contém:
 - `README.md` (enunciado resumido + exemplo de execução)
 
 
-## **Contato:**  
+## **Contato:**
 GitHub: https://github.com/reginaldojr-dev  
 LinkedIn: https://www.linkedin.com/in/reginaldo-junior-175148188/
